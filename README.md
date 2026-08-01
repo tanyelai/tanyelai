@@ -32,9 +32,6 @@ University of Southern Denmark, Centre for Industrial Software.
 
 - **[neuroscience](https://github.com/tanyelai/neuroscience)** — notes from a computer
   engineering student trying to learn brain science
-- **[fonliman](https://github.com/tanyelai/fonliman)** — self-hosted TEFAS fund dashboard
-- **[mammography-preprocessing](https://github.com/tanyelai/mammography-preprocessing)** —
-  full-image preprocessing for VinDr-Mammo
 
 <sub>Everything else is older coursework and experiments, kept public because someone
 occasionally finds them useful. The site has the current picture.</sub>
