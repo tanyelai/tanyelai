@@ -1,4 +1,3 @@
-## Toygar Tanyel
 
 I work on artificial intelligence, but what I am really curious about is how this
 technology will coexist with people. In practice that has meant applied and interpretable
