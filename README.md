@@ -9,5 +9,5 @@ medical imaging, biosignals and language models.
 Founding AI engineer at [Promake](https://promake.ai). Visiting researcher at the
 University of Southern Denmark, Centre for Industrial Software.
 
-<sub>Everything else is older coursework and experiments, kept public because someone
+<sub>kept older coursework and experiments public because someone
 occasionally finds them useful. The site has the current picture.</sub>
